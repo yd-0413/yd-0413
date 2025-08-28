@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Yalina De Silva
+# 👋 Hi, I'm Yalina De Silva  
 
 🎓 Computer Science student at **Carleton University**  
 💻 Passionate about **software engineering, AI-driven applications, and cybersecurity**  
-☁️ Certified in **AWS Cloud, Python, Google Cybersecurity, and Cisco Cybersecurity**  
+🎓 Certifications: **AWS Cloud | Python | Google Cybersecurity | Cisco Cybersecurity**  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🤝 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/yalina-de-silva-a78590241)  
-- 📧 Email: *your.email@example.com*  
+- 📧 Email: *desilvayalina@gmail.com*  
 
 ---
 ✨ Always open to internships, co-ops, and collaborations in software engineering and cybersecurity.
