@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Yalina De Silva
 
-<!--
-**yd-0413/yd-0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **Carleton University**  
+💻 Passionate about **software engineering, AI-driven applications, and cybersecurity**  
+☁️ Certified in **AWS Cloud, Python, Google Cybersecurity, and Cisco Cybersecurity**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Featured Projects
+- **[Rideshare App (C++)](https://github.com/yd-0413/Rideshare-APP-)**  
+  Real-time driver–customer coordination with distance-based priority matching. Optimized matching speed 3x using OOP and algorithmic improvements.  
+
+- **[Ghost Hunt Tracker (C)](https://github.com/yd-0413/Ghost-Hunt-Tracker-C-)**  
+  Prototype game simulating hunter–ghost interactions with modular subsystems and dynamic memory management. Achieved zero memory leaks with efficient cleanup.  
+
+- **[OWASP Juice Shop Security](https://github.com/yd-0413/owasp-juice-shop-security)**  
+  Applied knowledge from certifications to solve 9+ OWASP Juice Shop challenges (SQLi, XSS, Broken Authentication). Hands-on penetration testing experience.  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python | C++ | C | Java | JavaScript | SQL  
+**Web/Cloud:** React | Node.js | Firebase | Redis | Google Cloud Run | LogRocket  
+**Tools:** Git | Linux | Eclipse | VS Code | Burp Suite  
+
+---
+
+## 🤝 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/yalina-de-silva-a78590241)  
+- 📧 Email: *your.email@example.com*  
+
+---
+✨ Always open to internships, co-ops, and collaborations in software engineering and cybersecurity.
