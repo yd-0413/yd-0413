@@ -11,7 +11,10 @@
   Real-time driver–customer coordination with distance-based priority matching. Optimized matching speed 3x using OOP and algorithmic improvements.  
 
 - **[Ghost Hunt Tracker (C)](https://github.com/yd-0413/Ghost-Hunt-Tracker)**  
-  Prototype game simulating hunter–ghost interactions with modular subsystems and dynamic memory management. Achieved zero memory leaks with efficient cleanup.  
+  Prototype game simulating hunter–ghost interactions with modular subsystems and dynamic memory management. Achieved zero memory leaks with efficient cleanup.
+
+- **[WatchAgent (Python)](https://github.com/yd-0413/watchagent)**
+  Python backend service that monitors live weather across major cities by polling Open-Meteo, storing unique readings, detecting weather events, and exposing data via an HTTP API.
 
 - **[OWASP Juice Shop Security](https://github.com/yd-0413/OWASP-Juice-Shop-Security)**  
   Applied knowledge from certifications to solve 9+ OWASP Juice Shop challenges (SQLi, XSS, Broken Authentication). Hands-on penetration testing experience.  
